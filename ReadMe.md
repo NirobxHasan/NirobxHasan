@@ -1,5 +1,5 @@
 #  Hi there 👋:
-I'm Nirob Hasan. I'm currently working at E.B. Solution Ltd as a software engineer. I graduated from the ECE department majoring in CSE at the North South University. Previously, I used to work at Bangladesh open-source network as a programming mentor. I have taught programming in different district universities of Bangladesh. Enthusiastic about solving real-world difficulties through my leadership and technological skills.
+This is Nirob Hasan. I'm currently working at E.B. Solution Ltd as a software engineer. I graduated from the ECE department majoring in CSE at the North South University. Previously, I used to work at Bangladesh open-source network as a programming mentor. I have taught programming in different district universities of Bangladesh. Enthusiastic about solving real-world difficulties through my leadership and technological skills.
 
 
 ## 🌐 Socials:
